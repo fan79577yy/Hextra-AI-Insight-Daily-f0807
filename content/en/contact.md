@@ -4,20 +4,20 @@ type: page
 sidebar:
   exclude: true
 ---
-# Let's Connect! 👋
+# Contact Me 👋
 
-Want to chat? I'd absolutely love to hear your thoughts and suggestions! Whether you've got questions, brilliant ideas for collaboration, or just need a hand, feel free to hit me up using the methods below.
+Got questions, ideas for collaboration, or need a hand? I'm super keen to hear from you! Just hit me up using the details below.
 
-Your emails? I promise to get back to them super quick! ⚡️
+Email response time? I'll do my best to get back to your messages ASAP! 🚀
 
 ---
 
-## **How to Connect**
+## **Ways to Connect**
 
 *   **Email:**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
 
-*   **WeChat:**
+*   **Personal WeChat:**
     *   {{< cards >}}
         {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Feel free to connect with me!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
